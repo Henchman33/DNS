@@ -1,1 +1,0 @@
-Get-WinDNSRecords -IncludeDetails -Prettify | Out-HtmlView -Filtering
